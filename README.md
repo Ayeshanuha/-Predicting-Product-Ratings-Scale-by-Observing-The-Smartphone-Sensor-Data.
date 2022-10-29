@@ -1,4 +1,5 @@
 !!!!!!!Apply Machine Learning Algorithms to Predict Product Ratings Scale by Observing The Smartphone Sensors Data !!!!!!!!!!!!!
+
 A rating scale is an essential tool for product evaluation. Reliable and accurate ratings can improve consumer service, product sales, and brand management.It can achieve customer reviews for evaluation and further marketing strategy improvement.
 It can gather more relative information about a product or certain aspects of the product. As several rating scales are commonly used in many online e-commerce sites, users must have a say in which rating scale they prefer. Online marketplaces still do not
 provide a platform for users to consider their own preferences in this matter. Previous
